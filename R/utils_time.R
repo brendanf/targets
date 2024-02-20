@@ -29,4 +29,4 @@ time_seconds_local <- function() {
   )
 }
 
-time_stamp_format <- "%Y-%m-%d %H:%M:%S.%OS"
+time_stamp_format <- "%Y-%m-%d %H:%M:%OS2"
